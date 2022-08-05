@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Samuel Echols](https://github.com/sechols223)
+- [Diana Aldana](https://github.com/DianaPat)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Shahid Akhtar](https://github.com/ShahidAkhtar12)
 - [Lubna Fathima N](https://github.com/lubnafathima)
